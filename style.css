@@ -79,7 +79,7 @@ body {
 
 #article_2 p{
     float: left;
-    width: 184px;  
+    width: 234px;  
     height: 70px;
     line-height: 70px;
     background-color: #fff;
@@ -87,7 +87,7 @@ body {
 
 #article_2 aside{
     float: left;
-    width: 150px;  
+    width: 100px;  
     height: 70px;  
     line-height: 70px;
     background-color: #fff;

@@ -8,9 +8,13 @@ body * {
     padding: 5px;
 }
 
-body {
+div {
     background-color: #777777;
-
+    width: 645px;
+    border-width: 1px;
+    border-style: solid;
+    margin: auto auto;
+    height:650px;
 }
 
 #head_top{
